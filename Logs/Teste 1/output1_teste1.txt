@@ -1,3 +1,0 @@
-<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51598), raddr=('127.0.1.1', 4002)>
-Key: 959210827027
-Tempo: 0.5551514625549316

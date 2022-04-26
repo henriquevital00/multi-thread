@@ -14,7 +14,7 @@ class ProcessTwo:
       code = int(data_msg[0])
       n = int(data_msg[1])
 
-      if ((code) > 1000000):
+      if ((code) > 10000000):
         if (n <= 15000 and n > 5000 ):
           response = data_msg[0] + "&" + data_msg[1]
         else:
