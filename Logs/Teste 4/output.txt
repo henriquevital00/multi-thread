@@ -1,0 +1,300 @@
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42832), raddr=('127.0.1.1', 4002)>
+Key: 99930041869709
+Tempo: 0.7237532138824463
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42834), raddr=('127.0.1.1', 4002)>
+Key: 99930041869709
+Tempo: 0.712660551071167
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42836), raddr=('127.0.1.1', 4002)>
+Key: 99930041869709
+Tempo: 0.7090334892272949
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42838), raddr=('127.0.1.1', 4002)>
+Key: 99930041869709
+Tempo: 0.7436869144439697
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42840), raddr=('127.0.1.1', 4002)>
+Key: 99930041869709
+Tempo: 0.751854419708252
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42842), raddr=('127.0.1.1', 4002)>
+Key: 99930041869709
+Tempo: 0.7221441268920898
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42844), raddr=('127.0.1.1', 4002)>
+Key: 99930041869709
+Tempo: 0.7573354244232178
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42846), raddr=('127.0.1.1', 4002)>
+Key: 99930041869709
+Tempo: 0.9212110042572021
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42848), raddr=('127.0.1.1', 4002)>
+Key: 99930041869709
+Tempo: 0.7642455101013184
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42850), raddr=('127.0.1.1', 4002)>
+Key: 99930041869709
+Tempo: 0.7375056743621826
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42852), raddr=('127.0.1.1', 4002)>
+Key: 99930041869709
+Tempo: 0.7657275199890137
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42854), raddr=('127.0.1.1', 4002)>
+Key: 99930041869709
+Tempo: 0.8519730567932129
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42856), raddr=('127.0.1.1', 4002)>
+Key: 99930041869709
+Tempo: 0.9823799133300781
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42858), raddr=('127.0.1.1', 4002)>
+Key: 99930041869709
+Tempo: 0.8312437534332275
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42860), raddr=('127.0.1.1', 4002)>
+Key: 99930041869709
+Tempo: 0.8789052963256836
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42862), raddr=('127.0.1.1', 4002)>
+Key: 99930041869709
+Tempo: 0.7923679351806641
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42864), raddr=('127.0.1.1', 4002)>
+Key: 99930041869709
+Tempo: 0.7261812686920166
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42866), raddr=('127.0.1.1', 4002)>
+Key: 99930041869709
+Tempo: 0.7308740615844727
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42868), raddr=('127.0.1.1', 4002)>
+Key: 99930158950793
+Tempo: 0.7635128498077393
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42870), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.87660813331604
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42872), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7727146148681641
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42874), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7899343967437744
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42878), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7794182300567627
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42880), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7901978492736816
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42884), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.8333637714385986
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42886), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.8460462093353271
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42888), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7812564373016357
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42890), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.8332414627075195
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42894), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7907092571258545
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42896), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7841014862060547
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42898), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.798126220703125
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42900), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7935912609100342
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42902), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7809057235717773
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42904), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7845249176025391
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42906), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7620933055877686
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42908), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7778046131134033
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42910), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 1.0755445957183838
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42912), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.9457263946533203
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42914), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7351906299591064
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42916), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7336387634277344
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42918), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7378895282745361
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42920), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7370851039886475
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42922), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7396080493927002
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42924), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7393615245819092
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42926), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7562658786773682
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42928), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7726154327392578
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42930), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7598392963409424
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42932), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7821741104125977
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42934), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7638630867004395
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42936), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7412734031677246
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42938), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7686426639556885
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42940), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.774662971496582
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42942), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.8398869037628174
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42944), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7490336894989014
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42946), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.747816801071167
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42948), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7585959434509277
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42950), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.748227596282959
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42952), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7638053894042969
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42954), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.8717191219329834
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42956), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.8906257152557373
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42958), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 1.3507466316223145
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42960), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.8185391426086426
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42962), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.8952844142913818
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42964), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.8952326774597168
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42966), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.8106365203857422
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42968), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7908730506896973
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42970), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7932369709014893
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42972), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.745497465133667
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42974), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7472290992736816
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42976), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7542941570281982
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42978), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7444677352905273
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42980), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7448668479919434
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42982), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7572965621948242
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42984), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7663333415985107
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42986), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.8101468086242676
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42988), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7945401668548584
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42990), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.7936558723449707
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42992), raddr=('127.0.1.1', 4002)>
+Key: 99930384278071
+Tempo: 0.78659987449646
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42994), raddr=('127.0.1.1', 4002)>
+Key: 99930462332303
+Tempo: 0.7848734855651855
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42996), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.7826411724090576
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42998), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.78314208984375
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43000), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.7851760387420654
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43002), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.7874577045440674
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43004), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.7510061264038086
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43006), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.7890288829803467
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43008), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.7774550914764404
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43010), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.7695701122283936
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43012), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.7586560249328613
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43014), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.7696411609649658
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43016), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.8575196266174316
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43018), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.7776055335998535
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43020), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.8188045024871826
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43022), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.9697909355163574
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43026), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.8017690181732178
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43028), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.8463635444641113
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43030), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.9481122493743896
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43032), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.8444020748138428
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43034), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.8603382110595703
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43036), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.8630378246307373
+<socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43038), raddr=('127.0.1.1', 4002)>
+Key: 99930544269559
+Tempo: 0.83064866065979
