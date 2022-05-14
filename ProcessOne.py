@@ -1,26 +1,25 @@
 from mimetypes import init
-import socket
+import requests
 
 class ProcessOne:
   def __init__(self, code="1000001", n="15000"):
     self.code = code
     self.n = n
-    self.s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    self.response = None
 
 
   def send_message(self):
-    self.s.connect((socket.gethostname(), 4002))
-    print(self.s)
-    message = self.code + "&" + self.n
-    self.s.sendall(bytes(message, encoding='utf-8'))
+    resposta = requests.get('http://localhost:5000/processo2',
+      params={
+        "code": self.code,
+        "n": self.n
+      }
+    )
+    self.response = (resposta.text)
 
   def wait_callback(self):
-    while (True):
-      dados = self.s.recv(1024)
-      if (dados):
-        decoded_message = dados.decode()
-        msg = decoded_message.split("&")
+    if (self.response):
+      msg = self.response.split("&")
 
-        print(f"Key: {msg[0]}")
-        print(f"Tempo: {msg[1]}")
-        break
+      print(f"Key: {msg[0]}")
+      print(f"Tempo: {msg[1]}")
